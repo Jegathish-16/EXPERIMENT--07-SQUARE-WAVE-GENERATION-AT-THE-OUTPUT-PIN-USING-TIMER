@@ -138,6 +138,7 @@ int main(void)
 
 ### FOR PULSE AT 6480
 ![output](1.png)
+
     TON = 2.5 * 1
     TOFF=  0.2 * 1
     TOTAL TIME = 2.5 + 0.2 = 2.7
@@ -146,6 +147,7 @@ int main(void)
 
 ### FOR PULSE AT 900
 ![output](900.png)
+
     TON = 5 * 0.5 = 2.5ms
     TOFF= 0.5 * 1.5 = 0.75ms
     TOTAL TIME = 2.5+0.75 = 3.25
@@ -155,6 +157,7 @@ int main(void)
 
 ### FOR PULSE AT 7200
 ![output](3.png)
+
     TON = 0 * 0.5 = 0ms
     TOFF= 0 * 1.5 = 0ms
     TOTAL TIME = 0+0 = 0
